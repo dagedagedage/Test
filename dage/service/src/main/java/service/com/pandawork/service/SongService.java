@@ -7,7 +7,7 @@ import java.util.List;
 
 public interface SongService {
     /**
-     * 列出所有歌曲
+     * 列出所有歌曲hahahaah
      * @return
      * @throws SSException
      */
